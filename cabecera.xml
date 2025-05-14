@@ -1,0 +1,28 @@
+<?xml version="1.0"encoding="UTF-8"?>
+<RSS version="2.0">
+
+    <channel>
+        <title>deportes</title>
+        <link>https:/www.Deportes.com</link>
+        <description>canal de deportes</description>
+        <language>es</language>
+        <item>
+            <title>noticia1</title>
+            <link>https:/www.deportes.com</link>
+            <description>texto de noticia del puto madrid</description>
+            <pubDate>14 may 2025 12.00 </pubDate>
+        </item>
+        <item>
+            <title>noticia2</title>
+            <link>https:/www.deportes.com</link>
+            <description>texto de noticia del puto barca</description>
+            <pubDate>14 may 2025 12.00 </pubDate>
+        </item>
+        <item>
+            <title>noticia3</title>
+            <link>https:/www.deportes.com</link>
+            <description>texto de noticia del puto valencia</description>
+            <pubDate>14 may 2025 12.00 </pubDate>
+        </item>
+    </channel>
+</RSS>
